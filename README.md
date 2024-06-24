@@ -1,16 +1,23 @@
-## Hi there 👋
+# Ibrahim Nimer :wave:
+## About Me
+I'm a passionate **Full-Stack Web Developer** based in Amman, Jordan, with a keen interest in creating immersive web experiences. I love diving into both frontend and backend development, using technologies like JavaScript, C#, and React to bring ideas to life.
 
-<!--
-**IbrahimNimer/IbrahimNimer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
+- **[IbrahimFlix](https://silly-mousse-6d9c8f.netlify.app/)**: IbrahimFlix is a movie library app that allows users to browse the latest movies based on categories.
+- **[Triangle Real Estate](https://curious-clafoutis-499a1c.netlify.app/)**: Triangle Real Estate is a web application built using React for buying and renting properties.
 
-Here are some ideas to get you started:
+## Skills
+- **Languages**: JavaScript, C#
+- **Frameworks**: React
+- **Tools & Technologies**: Git, SQL, VS, Ubuntu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=IbrahimNimer&show_icons=true&theme=radical)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimNimer&layout=compact&theme=radical)
+
+## Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahimnimer/)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahimnimer25@gmail.com)
+
